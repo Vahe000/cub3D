@@ -1,14 +1,14 @@
-CUB3D Project
+#CUB3D Project
 
 The CUB3D project is a simple 3D game engine using the raycasting technique for 42 School's curriculum.
 
-Description
+#Description
 
 This project requires you to create a simple 3D game engine using the raycasting technique, which was popularized by the game Wolfenstein 3D. The engine should be able to render a 3D map, display sprites, and handle user input for movement and rotation.
 
 The project is written in the C programming language, and uses the Minilibx library for graphical display.
 
-Installation
+#Installation
 
 To install and run the CUB3D project, follow these steps:
 
