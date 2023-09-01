@@ -4,6 +4,10 @@
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Vahe000/cub3D/blob/main/textures/Screen%20Shot%202023-09-01%20at%2011.07.58%20AM.png" />
+</p>
+
 The Cub3D project is a simple 3D game engine using the raycasting technique for 42 School's curriculum.
 
 # Description
